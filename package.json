@@ -1,0 +1,24 @@
+{
+  "name": "lum_clashlands",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.20",
+    "nodemon": "^3.1.4",
+    "postcss": "^8.4.41",
+    "prettier": "^3.3.3",
+    "tailwindcss": "^3.4.10"
+  }
+}
